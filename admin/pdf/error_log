@@ -1,0 +1,460 @@
+[04-Aug-2013 23:48:07] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:48:07] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:48:07] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:48:07] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:48:07] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:48:07] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:48:07] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:48:07] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:48:07] PHP Warning:  Division by zero in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 23204
+[04-Aug-2013 23:48:07] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 23206
+[04-Aug-2013 23:48:07] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[04-Aug-2013 23:48:07] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[04-Aug-2013 23:50:37] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:50:37] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:50:37] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:50:37] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:51:30] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:51:30] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:51:30] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:51:30] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:51:54] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:51:54] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:51:54] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[04-Aug-2013 23:51:54] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 22:02:48] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 253231157 bytes) in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 461
+[10-Sep-2013 22:02:52] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 253231157 bytes) in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 461
+[10-Sep-2013 22:03:40] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 253231413 bytes) in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 447
+[10-Sep-2013 22:03:44] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 253231413 bytes) in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 447
+[10-Sep-2013 22:03:48] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 253231413 bytes) in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 447
+[10-Sep-2013 22:04:23] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 253231277 bytes) in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 445
+[10-Sep-2013 22:04:27] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 253231277 bytes) in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 445
+[10-Sep-2013 22:20:51] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or '$' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 599
+[10-Sep-2013 22:27:55] PHP Parse error:  syntax error, unexpected $end in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 244
+[10-Sep-2013 22:39:58] PHP Parse error:  syntax error, unexpected $end in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 598
+[10-Sep-2013 22:46:08] PHP Parse error:  syntax error, unexpected $end in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 244
+[10-Sep-2013 22:56:48] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 596
+[10-Sep-2013 22:56:48] PHP Parse error:  syntax error, unexpected '<' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 596
+[10-Sep-2013 23:00:40] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 589
+[10-Sep-2013 23:00:40] PHP Parse error:  syntax error, unexpected '<' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 589
+[10-Sep-2013 23:00:44] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:00:44] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:00:44] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:00:44] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:00:44] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:00:44] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:00:44] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[10-Sep-2013 23:00:44] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[10-Sep-2013 23:00:50] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:00:50] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:00:50] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:00:50] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:00:50] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:00:50] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:00:50] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[10-Sep-2013 23:00:50] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[10-Sep-2013 23:09:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:09:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:09:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:09:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:09:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:09:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:09:51] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[10-Sep-2013 23:09:51] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[10-Sep-2013 23:10:15] PHP Parse error:  syntax error, unexpected $end in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 244
+[10-Sep-2013 23:10:19] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:19] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:19] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:19] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:19] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:19] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:20] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[10-Sep-2013 23:10:20] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[10-Sep-2013 23:10:20] PHP Warning:  Division by zero in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 23204
+[10-Sep-2013 23:10:20] PHP Warning:  array_fill() [<a href='function.array-fill'>function.array-fill</a>]: Number of elements must be positive in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 23206
+[10-Sep-2013 23:10:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:51] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[10-Sep-2013 23:10:51] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[10-Sep-2013 23:10:56] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:56] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:56] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:56] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:56] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:56] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[10-Sep-2013 23:10:56] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[10-Sep-2013 23:10:56] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[10-Sep-2013 23:28:33] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or '$' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 238
+[10-Sep-2013 23:47:32] PHP Parse error:  syntax error, unexpected $end, expecting T_VARIABLE or '$' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 238
+[11-Sep-2013 01:33:14] PHP Parse error:  syntax error, unexpected '<' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 934
+[11-Sep-2013 01:43:16] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:43:16] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:43:16] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:43:16] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:44:02] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:44:02] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:44:02] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:44:02] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:44:16] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:44:16] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:44:16] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:44:16] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:44:25] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:44:25] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:44:25] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:44:25] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:44:42] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:44:42] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:44:42] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:44:42] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:44:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:44:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:44:51] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:44:51] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:46:08] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:46:08] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:46:08] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:46:08] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:47:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:47:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:47:14] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:47:14] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:47:27] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:47:27] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:47:27] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:47:27] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:48:38] PHP Warning:  Unterminated comment starting line 485 in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 485
+[11-Sep-2013 01:48:38] PHP Fatal error:  fatal flex scanner internal error--end of buffer missed in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 485
+[11-Sep-2013 01:49:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:49:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:49:21] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:49:21] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:50:18] PHP Parse error:  syntax error, unexpected $end in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 480
+[11-Sep-2013 01:50:24] PHP Parse error:  syntax error, unexpected $end in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 480
+[11-Sep-2013 01:50:29] PHP Parse error:  syntax error, unexpected $end in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 480
+[11-Sep-2013 01:51:01] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:51:01] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:51:01] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:51:01] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:51:01] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:51:01] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:53:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:53:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:53:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:53:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:53:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:53:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:53:32] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:53:32] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:53:32] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:53:32] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:53:32] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:53:32] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:54:58] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:54:58] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:54:58] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:54:58] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:54:58] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:54:58] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:55:38] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:55:38] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:55:38] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:55:38] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:55:38] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:55:38] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:55:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:55:51] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:55:51] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:55:51] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:55:51] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:55:51] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:57:59] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:57:59] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:57:59] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:57:59] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:57:59] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:57:59] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:58:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:58:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:58:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:58:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:58:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:58:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:59:00] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:59:00] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:59:00] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:59:00] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:59:00] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:59:00] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:59:15] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:59:15] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 01:59:15] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:59:15] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:59:15] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 01:59:15] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 01:59:53] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 232
+[11-Sep-2013 01:59:53] PHP Parse error:  syntax error, unexpected '<' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 232
+[11-Sep-2013 02:00:26] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:00:26] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:00:26] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:00:26] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:00:32] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:00:32] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:00:32] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:00:32] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:01:30] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:01:30] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:01:30] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:01:30] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:02:05] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 232
+[11-Sep-2013 02:02:05] PHP Parse error:  syntax error, unexpected '<' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 232
+[11-Sep-2013 02:02:33] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:02:33] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:02:33] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:02:33] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:02:33] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:02:33] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:03:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:03:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:03:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:03:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:03:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:03:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:05:31] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:05:31] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:05:31] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:05:31] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:12:38] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:12:38] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:12:43] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:12:43] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:13:02] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:13:02] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:13:08] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:13:08] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:14:22] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:14:22] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:14:27] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:14:27] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:17:55] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:17:55] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:17:55] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:17:55] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:17:55] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:17:55] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:17:58] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:17:58] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:17:58] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:17:58] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:17:58] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:17:58] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:18:39] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:18:39] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:18:39] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:18:39] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:18:39] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:18:39] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:18:43] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:18:43] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:18:43] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:18:43] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:18:43] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:18:43] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:26:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:26:13] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:28:35] PHP Parse error:  syntax error, unexpected $end in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 451
+[11-Sep-2013 02:28:42] PHP Parse error:  syntax error, unexpected $end in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 451
+[11-Sep-2013 02:29:20] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:20] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:20] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:21] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:29:22] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:29:22] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:30:40] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:30:40] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:32:05] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:32:05] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:32:10] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:32:10] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:32:17] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:32:17] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 02:34:52] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:34:52] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:37:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:37:12] PHP Warning:  array_push() [<a href='function.array-push'>function.array-push</a>]: First argument should be an array in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 22165
+[11-Sep-2013 02:40:54] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24619
+[11-Sep-2013 02:40:54] PHP Warning:  Invalid argument supplied for foreach() in /home1/silicon/public_html/clients/kinglaces/pdf/tcpdf.php on line 24651
+[11-Sep-2013 03:04:18] PHP Parse error:  syntax error, unexpected '=' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 356
+[11-Sep-2013 03:08:00] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 361
+[11-Sep-2013 03:08:03] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 361
+[11-Sep-2013 03:08:32] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 361
+[11-Sep-2013 04:17:05] PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 426
+[11-Sep-2013 04:17:05] PHP Parse error:  syntax error, unexpected '<' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 427
+[20-Sep-2013 02:49:36] PHP Parse error:  syntax error, unexpected '}' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 395
+[02-Oct-2013 05:40:14] PHP Parse error:  syntax error, unexpected '<' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 347
+[02-Oct-2013 05:41:01] PHP Parse error:  syntax error, unexpected '<' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 347
+[02-Oct-2013 05:41:08] PHP Parse error:  syntax error, unexpected '<' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 347
+[02-Oct-2013 05:41:24] PHP Parse error:  syntax error, unexpected '<' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 347
+[02-Oct-2013 05:49:34] PHP Parse error:  syntax error, unexpected '<' in /home1/silicon/public_html/clients/kinglaces/pdf/pdf_format.php on line 347
+[18-Oct-2013 16:57:19] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[18-Oct-2013 16:57:19] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[21-Oct-2013 16:52:57] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[21-Oct-2013 16:52:57] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[21-Oct-2013 16:54:22] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[21-Oct-2013 16:54:22] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[30-Oct-2013 09:38:24] PHP Warning:  PHP Startup: imagick: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[30-Oct-2013 09:38:24] PHP Warning:  PHP Startup: SourceGuardian: Unable to initialize module
+Module compiled with module API=20090626, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
